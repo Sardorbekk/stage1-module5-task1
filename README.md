@@ -47,7 +47,7 @@ Implement the program which have a method with one argument `List<String>` and r
 
 ## 4. Create Function
 
-Implement the program which return `Function<List<String>, Map<String, Integer>>`. Function should create a map where key is a value of the list and the value is size of the key.
+Implement the program which return `Function<List<String>, Map<String, Integer>>`. Function should create a map where **key is a value of the list** and the **value is size of the key**.
 
 `public Function<List<String>, Map<String, Integer>> stringSize() {return x -> {return ...};}`
 
